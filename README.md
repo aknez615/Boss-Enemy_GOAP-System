@@ -1,1 +1,1 @@
-Scripts that I worked on for the game Mechanisoul. Current ongoing Workshop project started August 2025
+Unity GOAP System that was made for diverse boss AI
